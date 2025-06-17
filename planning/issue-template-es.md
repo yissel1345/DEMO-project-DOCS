@@ -1,11 +1,11 @@
 # Plantilla de Issue
-
+A mi ritmo
 ## Título
 _¿Cuál es el título corto y descriptivo para este issue o funcionalidad?_
-
+A mi ritmo
 ### Descripción
 _Describe la funcionalidad o issue en detalle._
-
+la aplicacion A MI RITMO busca proporcionar una plataforma movil para que los usuarios pueden buscar
 **Ejemplo Narrativo:**
 Jane es una clienta frecuente que a menudo olvida lo que pidió la última vez. Cuando inicia sesión, debe ver una lista de sus pedidos anteriores, cada uno con detalles y un botón de "Volver a pedir". Esto le ayudará a repetir rápidamente compras pasadas, mejorando su experiencia y aumentando las ventas.
 <small>(Solo ejemplo. Reemplaza con tu propia descripción y narrativa.)</small>
