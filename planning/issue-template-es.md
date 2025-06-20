@@ -1,4 +1,4 @@
-# Plantilla de Issue
+n la app# Plantilla de Issue
 A mi ritmo
 ## Título
 _¿Cuál es el título corto y descriptivo para este issue o funcionalidad?_
@@ -11,7 +11,7 @@ Jane es una clienta frecuente que a menudo olvida lo que pidió la última vez. 
 <small>(Solo ejemplo. Reemplaza con tu propia descripción y narrativa.)</small>
 
 ---
-
+En la app pueden encontar o implementar ejercicios, deporte y horario que los beneficie, acomodandose en las rutinas de vida de cada persona y haci estar haciendo tus ejercios de manera en que no te aburras, hasta puedes contratar tu entrenador personal pagas una mensualidad. 
 ## Historias de Usuario Cubiertas
 _¿Qué historias de usuario aborda este issue? Enumera por número y copia su texto de user-stories-template-es.md._
 
