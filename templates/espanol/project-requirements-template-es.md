@@ -27,7 +27,7 @@ Muchas personas tienen dificultades para mantener una rutina de ejercicio regula
 
 ## 5. Características Clave (Historias de Usuario)  
 _Enumera las características clave en formato de historia de usuario. Ejemplo:_  
-- Como [usuario], quiero [hacer algo] para que [beneficio].
+- Como usuario, quiero crear un perfil en la app A Mi Ritmo para mejorar mi estado fisico.
   <small>(Solo ejemplo; reemplaza con tus propias historias de usuario.)</small>
 Creación de Perfil
 - Crear perfil personalizado con información de fitness, objetivos y preferencias.
