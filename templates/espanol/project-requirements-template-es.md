@@ -2,16 +2,16 @@
 
 ## 1. Nombre del Proyecto  
 _¿Cuál es el título de tu proyecto?_
-A MI RITMO
----
 
+---
+ A MI RITMO
 ## 2. Miembros del Equipo  
 _Enumera todos los colaboradores que trabajan en el proyecto._
-Nicole Ossa
-Mariana Hernandez 
-Yelenny Barrientos 
-Isabel
-Yissel Barrientos 
+1.Nicole Ossa
+2.Mariana Hernandez 
+3.Yelenny Barrientos 
+5.Isabel
+7.Yissel Barrientos 
 ---
 
 ## 3. Descripción General del Proyecto  
