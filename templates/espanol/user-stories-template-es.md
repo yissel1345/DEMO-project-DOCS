@@ -1,7 +1,7 @@
 # Plantilla de Historias de Usuario
 
 ---
-
+Como usuario de la aplicación  A Mi ritmo, quiero crear y seguir una rutina de ejercicio personalizada que se adapte a mis necesidades y objetivos de fitness, para mejorar mi condición física y aumentar mi motivación.
 - **US-000:** Como [usuario], quiero [hacer algo] para que [beneficio].
 
   _Contexto Ampliado / descripción (opcional):_
@@ -12,7 +12,11 @@
     - [ ] Criterio 2: (Agrega más según sea necesario)
 
 ---
-
+1. Perfil personalizado con información básica.
+2. Biblioteca de ejercicios variada y personalizable.
+3. Creación de rutina de ejercicio personalizada.
+4. Seguimiento de progreso con gráficos y estadísticas.
+5. Recomendaciones personalizadas para ajustar la rutina.
 **Ejemplo:**
 
 - **US-001:** Como cliente, quiero ver el menú en línea para poder decidir qué pedir antes de llegar.
